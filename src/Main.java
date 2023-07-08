@@ -6,7 +6,8 @@ public class Main {
         omnax.Sun="1";
         omnax.Plantes="2";
         omnax.Star="4";
+        omnax.Star="100";
 
-     
+
     }
 }
