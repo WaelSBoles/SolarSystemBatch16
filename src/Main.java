@@ -8,6 +8,11 @@ public class Main {
         omnax.Star="4";
         omnax.Star="100";
 
+        FeatureSun AdamX= new FeatureSun();
+        AdamX.name="poya";
+        AdamX.temp="2344231 celcius";
+        AdamX.size="3294km";
+
 
     }
 }
